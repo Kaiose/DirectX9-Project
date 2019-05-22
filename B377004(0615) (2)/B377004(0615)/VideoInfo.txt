@@ -1,0 +1,2 @@
+NVIDIA GeForce GTX 960
+3072
